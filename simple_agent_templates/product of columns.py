@@ -19,3 +19,4 @@ df[[output_column]].to_csv(workdir+output_filename)
 
 print (col1+"*"+col2)
 print ("#add_field:"+output_column+",N,"+output_filename)
+
